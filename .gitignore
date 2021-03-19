@@ -9,3 +9,5 @@ filecoin.h
 filecoin.pc
 *.a
 simulator
+
+.idea/
