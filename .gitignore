@@ -11,3 +11,5 @@ filecoin.pc
 simulator
 
 .idea/
+
+rust/Cargo.lock
